@@ -57,12 +57,6 @@ This project focuses on developing a **Face Mask Detection and Recognition Syste
 - **Security**: Aids in crime prevention and enhances surveillance effectiveness.
 - **Accessibility**: The mobile app ensures ease of use across diverse settings.
 
-## Contributors
-
-- **Aishwarya Vijayakumar**
-- **Alyn George**
-- **Ardhra K Shaji**
-- **Athul Renjan**
 
 ## License
 
