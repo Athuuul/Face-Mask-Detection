@@ -25,7 +25,7 @@ This project focuses on developing a **Face Mask Detection and Recognition Syste
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
+    git clone https://github.com/Athuuul/Face-Mask-Detection.git
     ```
 
 2. **Install the required dependencies**:
